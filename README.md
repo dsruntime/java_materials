@@ -52,9 +52,9 @@ https://gitexercises.fracz.com - Интерактивные упражнения
 Официальная документация:
 https://spring.io/guides#tutorials
 Онлайн-справочники и ресурсы для обучения: <br>
-http://springtutorials.com
-https://www.baeldung.com/
-https://www.springbyexample.org/
+http://springtutorials.com <br>
+https://www.baeldung.com/ <br>
+https://www.springbyexample.org/ <br>
 
 
 # 8. Фундаментальные знания
