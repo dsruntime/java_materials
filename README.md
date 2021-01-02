@@ -49,8 +49,8 @@ https://gitexercises.fracz.com - Интерактивные упражнения
 Видео (основы) - https://www.youtube.com/watch?v=0uwMKktzixU&list=RDCMUCcORCILcBXus2e4vWSS1k2Q&start_radio=1&t=688
 
 # 7. Spring framework
-Официальная документация:
-https://spring.io/guides#tutorials
+Официальная документация: <br>
+https://spring.io/guides#tutorials <br>
 Онлайн-справочники и ресурсы для обучения: <br>
 http://springtutorials.com <br>
 https://www.baeldung.com/ <br>
