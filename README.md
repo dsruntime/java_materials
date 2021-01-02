@@ -51,6 +51,11 @@ https://gitexercises.fracz.com - Интерактивные упражнения
 # 7. Spring framework
 Официальная документация:
 https://spring.io/guides#tutorials
+Онлайн-справочники и ресурсы для обучения: <br>
+http://springtutorials.com
+https://www.baeldung.com/
+https://www.springbyexample.org/
+
 
 # 8. Фундаментальные знания
 Книги:
